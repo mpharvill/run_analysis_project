@@ -18,6 +18,8 @@ next, assigning data to variables
     x_train <- test/X_train.txt
     y_train <- test/y_train.txt
     
+the five required operations:
+    
 1) merges the training and the test sets to create one dataset
     
     x_merge created by merging x_train and x_test using rbind()
