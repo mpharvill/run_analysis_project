@@ -2,6 +2,10 @@
 
 The run_analysis.R script performs the data gathering and then followed by the required operations
 
+first, download the dataset
+    link to the dataset used: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+    dataset downloaded and extracted under the folder called "UCI HAR Dataset"
+
     first, download the dataset
     
         link to the dataset used: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
